@@ -1,0 +1,7 @@
+#Comment
+*.txt
+log/*.log
+assets/video/
+!/assets/video/tour.*mp3
+
+
